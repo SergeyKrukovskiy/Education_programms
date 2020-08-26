@@ -18,6 +18,7 @@ namespace Education_Program_1
             Console.WriteLine("\nEnter second num: "); //Выводит информационное сообщение
             num_1 = Convert.ToInt32(Console.ReadLine()); //Присваивает введенное пользователем значение переменной num
             Console.WriteLine("The result is: " + (num + num_1).ToString());
+            Console.WriteLine("Hello"); //изменения для ветки Brach-II чтобы сделать pull recuest
             Console.ReadKey ();
         }
     }
