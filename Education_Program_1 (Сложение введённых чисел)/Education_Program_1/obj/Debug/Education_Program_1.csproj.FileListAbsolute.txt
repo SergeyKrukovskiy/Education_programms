@@ -1,0 +1,7 @@
+C:\Users\Сергей\source\repos\Education_Program_1\Education_Program_1\bin\Debug\Education_Program_1.exe.config
+C:\Users\Сергей\source\repos\Education_Program_1\Education_Program_1\bin\Debug\Education_Program_1.exe
+C:\Users\Сергей\source\repos\Education_Program_1\Education_Program_1\bin\Debug\Education_Program_1.pdb
+C:\Users\Сергей\source\repos\Education_Program_1\Education_Program_1\obj\Debug\Education_Program_1.csprojAssemblyReference.cache
+C:\Users\Сергей\source\repos\Education_Program_1\Education_Program_1\obj\Debug\Education_Program_1.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\Education_Program_1\Education_Program_1\obj\Debug\Education_Program_1.exe
+C:\Users\Сергей\source\repos\Education_Program_1\Education_Program_1\obj\Debug\Education_Program_1.pdb
