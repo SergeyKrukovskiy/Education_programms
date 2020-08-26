@@ -1,7 +1,0 @@
-C:\Users\Сергей\source\repos\Education_Program_2\Education_Program_2\bin\Debug\Education_Program_2.exe.config
-C:\Users\Сергей\source\repos\Education_Program_2\Education_Program_2\bin\Debug\Education_Program_2.exe
-C:\Users\Сергей\source\repos\Education_Program_2\Education_Program_2\bin\Debug\Education_Program_2.pdb
-C:\Users\Сергей\source\repos\Education_Program_2\Education_Program_2\obj\Debug\Education_Program_2.csprojAssemblyReference.cache
-C:\Users\Сергей\source\repos\Education_Program_2\Education_Program_2\obj\Debug\Education_Program_2.csproj.CoreCompileInputs.cache
-C:\Users\Сергей\source\repos\Education_Program_2\Education_Program_2\obj\Debug\Education_Program_2.exe
-C:\Users\Сергей\source\repos\Education_Program_2\Education_Program_2\obj\Debug\Education_Program_2.pdb
