@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Education_Program_10 (Class)hmwrk/1.0.0": {
+        "runtime": {
+          "Education_Program_10 (Class)hmwrk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Education_Program_10 (Class)hmwrk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
