@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Education_Program_12 (Наследование)\\Education_Program_12 (Наследование)\\Education_Program_12 (Наследование).csproj",
-      "projectName": "Education_Program_12 (Наследование)",
-      "projectPath": "C:\\GitHub\\Education_Program_12 (Наследование)\\Education_Program_12 (Наследование)\\Education_Program_12 (Наследование).csproj",
+      "projectUniqueName": "C:\\GitHub\\Education_Program_13 (Массив указателей, операторы is и as)\\Education_Program_13 (Массив указателей, операторы is и as)\\Education_Program_13 (Массив указателей, операторы is и as).csproj",
+      "projectName": "Education_Program_13 (Массив указателей, операторы is и as)",
+      "projectPath": "C:\\GitHub\\Education_Program_13 (Массив указателей, операторы is и as)\\Education_Program_13 (Массив указателей, операторы is и as)\\Education_Program_13 (Массив указателей, операторы is и as).csproj",
       "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\Education_Program_12 (Наследование)\\Education_Program_12 (Наследование)\\obj\\",
+      "outputPath": "C:\\GitHub\\Education_Program_13 (Массив указателей, операторы is и as)\\Education_Program_13 (Массив указателей, операторы is и as)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
